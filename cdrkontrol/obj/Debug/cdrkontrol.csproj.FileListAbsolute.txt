@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\bin\Debug\cdrkontrol.exe.config
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\bin\Debug\cdrkontrol.exe
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\bin\Debug\cdrkontrol.pdb
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\obj\Debug\cdrkontrol.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\obj\Debug\cdrkontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\obj\Debug\cdrkontrol.Form1.resources
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\obj\Debug\cdrkontrol.Properties.Resources.resources
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\obj\Debug\cdrkontrol.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\obj\Debug\cdrkontrol.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\obj\Debug\cdrkontrol.exe
+C:\Users\Administrator\Desktop\repos\cdrkontrol\cdrkontrol\obj\Debug\cdrkontrol.pdb

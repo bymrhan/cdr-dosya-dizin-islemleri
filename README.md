@@ -7,7 +7,7 @@ description: >-
 # 🌱 Cdr dizin işlemleri
 
 > 📣 Proje amaçlı yapılmıştır. 
-> ✨ Dizin değiştirme butonunun fonksiyonu boştur.
+> ✨ chech sum digit '5' değeri default olarak ayarlanmıştır.
 > ⏬ Güncelleme yapılmayacaktır.
 
 

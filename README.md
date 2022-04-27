@@ -10,11 +10,12 @@ description: >-
 > ✨ Dizin değiştirme butonunun fonksiyonu boştur.
 > ⏬ Güncelleme yapılmayacaktır.
 
-## 🔰 Ne İşe Yarar
 
+## 🔰 Ne İşe Yarar
 ⭐ cdr dosya adlarını bir not defterinden çeker çektiği isimleri dizinde aradıktan sonra eşleşen dosyaları kopyalama dizinine kopyalar.
-<img src="https://www.codeproject.com/KB/graphics/ean_13_barcodes/EAN-13-Numeric-Sections.gif" align="left" width="50%">
+
 ## 👁‍🗨 Uygulamaya Bakış
+<img src="https://www.codeproject.com/KB/graphics/ean_13_barcodes/EAN-13-Numeric-Sections.gif" align="right" width="20%">
 <img src="https://user-images.githubusercontent.com/81330668/165436720-ae91bb2e-06ef-4842-aa30-250bfd7bfcc5.png" align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/81330668/165436731-cc005cb6-e7e9-4fd1-b759-041cdf1278d8.png" align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/81330668/165436735-20d087db-96b5-48a1-b741-3f044cf16bee.png" align="center" width="50%">
